@@ -49,7 +49,7 @@ There will also be a chat to talk to people who study the selected degrees or th
 
 ## Project Status
 
-Our app is in progress
+Our app is in progress.
 
 ## App Mock-ups
 
